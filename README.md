@@ -23,12 +23,16 @@ do curso de Versionamento de Código com Git e GitHub da
 
 ```
 mkdir <nome_do_arquivo> //Cria repositório
-git init //Inicia pasta como repositório git
-git status //Verifica status da branch
-git log //Verifica log de commits
+git init //inicia pasta como repositório git
+git add . ou git add <nome_do_arquivo> //adiciona todos os arquivos alterados na "stage area"
+git commit -m "nome do commit"
+git push -u origin main //faz upload para repositório remoto dos arquivos "comitados"
+git status //verifica status da branch
+git log //verifica log de commits
 git reset --soft <hash de identificação do commit> //reseta commit feito para a "stage area". aqui é só dar um <add .> ou <add nome_do_arquivo>
 git reset --mixed <hash de identificação do commit> //reseta commit feito para a "untreacked file"
 git reset --hard <hash de identificação do commit> //apaga commit feito
+git pull //puxa todos os arquivos alterados no repositório remoto (GitHub) para o repositório local (PC)
 ```
 
 ## 🔍 Referências
