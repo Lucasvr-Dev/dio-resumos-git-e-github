@@ -9,14 +9,14 @@ do curso de Versionamento de Código com Git e GitHub da
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação GitHub](https://docs.github.com/)
 
-## 💻 Resumos das Aulas
+## 💻 Links das Aulas
 
 | Aulas | Resumos |
 |------|---------|
-| Criando e Clonando Repositórios | [Resumos](https://web.dio.me/track/gft-start-7-java/course/406684a4-396d-4160-94b9-ead934e18564/learning/a377a00b-461c-4ab0-8258-3addd2fef14c?autoplay=1)
-| Salvando Alterações no Repositório Local | [Resumos](https://web.dio.me/track/gft-start-7-java/course/406684a4-396d-4160-94b9-ead934e18564/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1)
-| Desfazendo Alterações no Repositório Local | [Resumos](https://web.dio.me/track/gft-start-7-java/course/406684a4-396d-4160-94b9-ead934e18564/learning/3f9f2336-6fd5-44cb-ba39-d1a4f6448023?autoplay=1)
-| Enviando e baixando Alterações com o Repositório Remoto | [Resumos](https://web.dio.me/track/gft-start-7-java/course/406684a4-396d-4160-94b9-ead934e18564/learning/dd17c56e-2327-493c-942a-358a49a26549?autoplay=1)
+| Criando e Clonando Repositórios | [Aula 01](https://web.dio.me/track/gft-start-7-java/course/406684a4-396d-4160-94b9-ead934e18564/learning/a377a00b-461c-4ab0-8258-3addd2fef14c?autoplay=1)
+| Salvando Alterações no Repositório Local | [Aula 02](https://web.dio.me/track/gft-start-7-java/course/406684a4-396d-4160-94b9-ead934e18564/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1)
+| Desfazendo Alterações no Repositório Local | [Aula 03](https://web.dio.me/track/gft-start-7-java/course/406684a4-396d-4160-94b9-ead934e18564/learning/3f9f2336-6fd5-44cb-ba39-d1a4f6448023?autoplay=1)
+| Enviando e baixando Alterações com o Repositório Remoto | [Aula 04](https://web.dio.me/track/gft-start-7-java/course/406684a4-396d-4160-94b9-ead934e18564/learning/dd17c56e-2327-493c-942a-358a49a26549?autoplay=1)
 
 
 ## 👨🏽‍💻Comandos Úteis:
