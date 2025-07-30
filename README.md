@@ -83,7 +83,8 @@ echo "#commit-2-branch-main" > commit-2-branch-main.txt //exibe texto no termina
 
 #
 
-### <footer align="center">Made with ❤️ by Lvrr
+ <p align="center">Made with ❤️ by Lvrr</p>
+
 
 #
 
